@@ -206,7 +206,7 @@ docs = false
 #sanitizers = false
 
 # Build the profiler runtime
-#profiler = false
+profiler = true
 
 # Indicates whether the native libraries linked into Cargo will be statically
 # linked or not.
